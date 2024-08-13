@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "很经典啊！"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "复古的蛇"
+    },
+    {
+      "name": "Button_Text_0",
+      "value": "开始"
+    },
+    {
+      "name": "Button_Text_1",
+      "value": "撞墙了"
+    },
+    {
+      "name": "Button_Text_2",
+      "value": "撞自己了"
+    },
+    {
+      "name": "Button_Text_Playing",
+      "value": "开始了"
+    }
+  ]
+}

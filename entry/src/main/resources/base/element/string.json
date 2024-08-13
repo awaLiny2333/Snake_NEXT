@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Very Classic!"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Retro Snake"
+    },
+    {
+      "name": "Button_Text_0",
+      "value": "START"
+    },
+    {
+      "name": "Button_Text_1",
+      "value": "Hit Wall"
+    },
+    {
+      "name": "Button_Text_2",
+      "value": "Hit Self"
+    },
+    {
+      "name": "Button_Text_Playing",
+      "value": "Started"
+    }
+  ]
+}
