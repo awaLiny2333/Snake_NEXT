@@ -38,6 +38,7 @@ export default class EntryAbility extends UIAbility {
       let avoidArea = windowClass.getWindowAvoidArea(type);
       let bottomRectHeight = avoidArea.bottomRect.height; // 获取到导航条区域的高度
       AppStorage.setOrCreate('bottomRectHeight', bottomRectHeight);
+
     });
   }
 
